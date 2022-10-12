@@ -1,0 +1,15 @@
+table {
+    width: 400px;
+}
+td {
+    font-size: 120%;
+}
+p{
+    font-family: Verdana, sans-serif;
+    text-decoration: underline;
+    font-size: 1.0em;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #E7F6F2;
+}

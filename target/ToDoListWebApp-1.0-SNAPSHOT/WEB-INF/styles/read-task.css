@@ -1,0 +1,15 @@
+table {
+    width: 400px;
+}
+th{
+    text-align: center;
+    font-size: 18px;
+}
+td{
+    font-size: 18px;
+    font-weight: bold;
+}
+td p{
+    font-weight: normal;
+    display: inline-block;
+}

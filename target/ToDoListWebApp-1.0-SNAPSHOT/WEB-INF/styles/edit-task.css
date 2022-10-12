@@ -1,0 +1,19 @@
+table {
+    width: 400px;
+}
+td {
+    font-size: 120%;
+}
+#id{
+    background-color: rgba(231, 246, 242, 0.35);
+    border-radius: 3px;
+    width: 162px;
+}
+p{
+     font-family: Verdana, sans-serif;
+     font-size: 1.0em;
+     font-weight: normal;
+     text-align: center;
+     margin-bottom: 20px;
+     color: #E7F6F2;
+ }
